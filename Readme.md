@@ -44,13 +44,14 @@ cd Deep_learning__101
 pip install -r requirements.txt
 Usage
 Once projects are added, navigate to the respective project directory and execute the main script. For example:
+```
 
-bash
+```bash
 Copy code
 cd project_1_directory
 python main.py
 Each project folder will contain a README file with specific instructions for running the project.
-
+```
 Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
