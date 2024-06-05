@@ -60,10 +60,11 @@ License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 #### Contact
+
 -Name: Raj bhoyar
--Email: rbhoyar729@gmail.com
--LinkedIn: https://www.linkedin.com/in/raj-bhoyar-b597b416a/
--GitHub: https://github.com/rajbhoyar729
+-Email: [email](rbhoyar729@gmail.com)
+-LinkedIn:[raj-bhoyar](https://www.linkedin.com/in/raj-bhoyar-b597b416a/)
+-GitHub: [rajbhoyar729](https://github.com/rajbhoyar729)
 
 Thank you for visiting my repository! I look forward to sharing my deep learning projects with you.
 
