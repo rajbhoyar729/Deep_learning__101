@@ -42,12 +42,12 @@ To clone this repository and install the necessary dependencies, run the followi
 git clone https://github.com/your_username/Deep_learning__101.git
 cd Deep_learning__101
 pip install -r requirements.txt
+```
 Usage
 Once projects are added, navigate to the respective project directory and execute the main script. For example:
-```
 
-```bash
 Copy code
+```bash
 cd project_1_directory
 python main.py
 Each project folder will contain a README file with specific instructions for running the project.
